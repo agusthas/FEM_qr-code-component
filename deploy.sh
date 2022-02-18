@@ -14,6 +14,6 @@ git add -A
 git commit -m 'deploy'
 
 
-git push -f git@github.com:agusthas/FEM_time-tracking-dashboard-main.git master:gh-pages
+git push -f git@github.com:agusthas/FEM_qr-code-component.git main:gh-pages
 
 cd -
